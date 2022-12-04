@@ -6,6 +6,11 @@ In this project, We will create a Convolutional Neural Network which will be abl
 ## Tech Stack
 
 ```
+Python
+Numpy
+Pandas
+Matplotlib
+Seaborn
 TensorFlow
 Keras
 ```
