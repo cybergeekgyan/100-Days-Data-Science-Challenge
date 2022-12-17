@@ -6,4 +6,4 @@
 
 ### Steps 
 
-![steps](
+![steps](https://github.com/cybergeekgyan/100-Days-Data-Science-Challenge/blob/main/%5BDay-16%5D%20IPL%20Match%20Win%20Predictor/workflow.png)
