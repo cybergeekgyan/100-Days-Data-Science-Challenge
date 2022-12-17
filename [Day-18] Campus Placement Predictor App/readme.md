@@ -5,4 +5,4 @@
 
 ### Steps
 
-![steps]()
+![steps](https://github.com/cybergeekgyan/100-Days-Data-Science-Challenge/blob/main/%5BDay-18%5D%20Campus%20Placement%20Predictor%20App/workflow.png)
