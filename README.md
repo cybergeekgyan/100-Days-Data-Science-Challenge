@@ -2,9 +2,9 @@
 
 *starting 27th November*
 
-| Day | Project | Detail | Tech Stack | Outcome | Deployment | 
-|-----|---------|--------|------------|---------|------------|
-| 1. |     |             |            |         |            |
+| Day | Project | Detail | Tech Stack | Outcome | Deployment | Blog | Video |
+|-----|---------|--------|------------|---------|------------|------|-------|
+| 1. |[PAN card Tampering Detection App]()  |             |            |         |            | | |
 | 2. |     |             |            |         |            |
 | 3. |     |             |            |         |            |
 | 4. |     |             |            |         |            |
