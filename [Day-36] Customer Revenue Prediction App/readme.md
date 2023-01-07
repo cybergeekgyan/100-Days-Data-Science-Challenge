@@ -1,6 +1,6 @@
 # Customer Revenue Prediction App
 
-## What is Customer Revenue?
+### What is Customer Revenue?
 
 - Customers are the backbones of any modern business. They can lead your business to a greater heights if you know how to leverage your participation.
 - Customer invest in your services and products at various stages of their customer journey which then are called *Customer Revenue*
